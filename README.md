@@ -1,2 +1,2 @@
-# zeal-ui
-基于uni-app的一款移动ui组件库
+# zeal-component-library
+  记录开发者零零碎碎的组件
